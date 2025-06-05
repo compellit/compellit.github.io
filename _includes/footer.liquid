@@ -1,8 +1,6 @@
 {% capture footer_contents %}
   &copy; Copyright {{ site.time | date: '%Y' }}
-  {{ site.first_name }}
-  {{ site.middle_name }}
-  {{ site.last_name }}. {{ site.footer_text }}
+  {{ site.project_title }}. {{ site.footer_text }}
   {% if site.impressum_path %}
     <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
   {% endif %}
@@ -13,9 +11,22 @@
 
 {% if site.footer_fixed %}
   <footer class="fixed-bottom" role="contentinfo">
-    <div class="container mt-0">
-      {{ footer_contents }}
-    </div>
+<div class="container d-flex justify-content-between align-items-center flex-wrap">
+  <div class="inherit-text">
+  &copy; Copyright {{ site.time | date: '%Y' }}
+  {{ site.project_title }}. {{ site.footer_text }}
+  {% if site.impressum_path %}
+    <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+  {% endif %}
+  {% if site.last_updated %}
+    Last updated: {{ 'now' | date: '%B %d, %Y' }}.
+  {% endif %}
+  </div>
+  <div class="d-flex align-items-center inherit-text">
+    <div class="inherit-text">Grant ID: <a href="https://cordis.europa.eu/project/id/101149659">101149659 MSCA-PF</a></div>
+    <img src="{{ '/assets/img/EN_Fundedbythe_EU_RGB_NEG_1_ec46d91d38.png' | relative_url }}" alt="EU Funded" style="height: 40px;margin-left:2rem;">
+  </div>
+</div>
   </footer>
 {% else %}
   <footer class="sticky-bottom mt-5" role="contentinfo">
@@ -25,6 +36,7 @@
 
     <div class="container">
       {{ footer_contents }}
+            <img src"{{ '/assets/img/EN_Fundedbythe_EU_RGB_NEG_1_ec46d91d38.png' | relative_url }}" style="height: 60px;"/>
     </div>
   </footer>
 {% endif %}

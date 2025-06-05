@@ -23,3 +23,16 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+.inherit-text {
+  color: inherit;
+}
+
+.footer .grant-group {
+  gap: 3rem;
+}
+
+footer.fixed-bottom {
+  padding-top: 0;
+  padding-bottom: 0;
+}
