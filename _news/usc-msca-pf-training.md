@@ -14,9 +14,9 @@ USC did well at the previous calls, with 10 grants in the [2023](https://www.usc
 
 
 {% include figure.liquid
-   path="/assets/img/posts/usc-msca-pf-training/1000132559_msca-pf-training.jpg"
+   path="/assets/img/news/usc-msca-pf-training/1000132559_msca-pf-training.jpg"
    caption="MSCA-PF information session"
    width="40%"
    class="mx-auto d-block"
-   link="/assets/img/posts/usc-msca-pf-training/1000132559_msca-pf-training.jpg)"
+   zoomable=true
 %}

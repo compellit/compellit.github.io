@@ -11,9 +11,10 @@ On April 24, the Faculty of Philosophy organized a round table on AI and complex
 Pablo Ruiz took part in the round table, discussing Large Language Models and stressing that, although they help solve arbitrary text interpretation tasks, like figurative language processing tasks relevant for the COMPEL project, they present challenges in terms of sustainability and result interpretability.
 
 {% include figure.liquid
-   path="/assets/img/posts/ia-and-complexity-round-table/cartel_ia-e-complexidade.jpg"
+   path="/assets/img/news/ia-and-complexity-round-table/cartel_ia-e-complexidade.jpg"
    caption="IA e complexidade poster"
    width="40%"
    class="mx-auto d-block"
-   link="/assets/img/posts/ia-and-complexity-round-table/cartel_ia-e-complexidade.jpg"
+   link="/assets/img/news/ia-and-complexity-round-table/cartel_ia-e-complexidade.jpg"
+   zoomable=true
 %}
