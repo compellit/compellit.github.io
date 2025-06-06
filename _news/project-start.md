@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The COMPEL project starts today.
+The COMPEL project starts today
