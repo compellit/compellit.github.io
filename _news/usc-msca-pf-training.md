@@ -12,7 +12,6 @@ Loly Sánchez Santos from the Office for Scientific Strategy presented the MSCA-
 
 USC did well at recent calls, with 10 grants at the [2023](https://www.usc.gal/en/node/44750) call (2nd place state-wide) and 5 grants at the [2024](https://www.usc.gal/gl/xornal/novas/usc-consegue-axudas-europeas-marie-curie-situa-primeiras-institucions) call. We wish the best of luck this year again!
 
-
 {% include figure.liquid
    path="/assets/img/news/usc-msca-pf-training/1000132559_msca-pf-training.jpg"
    caption="MSCA-PF information session"
