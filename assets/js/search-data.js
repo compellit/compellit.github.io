@@ -14,18 +14,25 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-the-compel-project-starts-today",
+          title: 'The COMPEL project starts today',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-presentation-at-ai-and-complexity-round-table",
+          title: 'Presentation at AI and complexity round table',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/ia-and-complexity-round-table/";
+            },},{id: "news-poster-at-ii-clariah-gal-workshop",
+          title: 'Poster at II CLARIAH-GAL Workshop',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/ii-clariah-gal-workshop/";
+            },},{id: "news-presentation-at-msca-pf-training-session",
+          title: 'Presentation at MSCA-PF training session',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/usc-msca-pf-training/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
