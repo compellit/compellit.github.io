@@ -8,7 +8,7 @@ pubs_for_page: true
 page_id: ii-clariah-gal
 ---
 
-[CLARIAH-GAL](https://www.clariah.gal/) is the Galician node of CLARIAH-ES, the digital research infrastructure coordinating Spain's participation in European Resarch Infrastruture Consorti [CLARIN](https://www.clarin.eu/) and [DARIAH](https://www.dariah.eu/). CLARIAH-GAL is coordinated by [Instituto da Lingua Galega](https://ilg.usc.gal/), in collaboration with CiTIUS, which is the host for the COMPEL project.
+[CLARIAH-GAL](https://www.clariah.gal/) is the Galician node of CLARIAH-ES, the digital research infrastructure coordinating Spain's participation in European Resarch Infrastruture Consortia [CLARIN](https://www.clarin.eu/) and [DARIAH](https://www.dariah.eu/). CLARIAH-GAL is coordinated by [Instituto da Lingua Galega](https://ilg.usc.gal/), in collaboration with CiTIUS, which is the host for the COMPEL project.
 
 CLARIAH-GAL organized its second workshop on May 9, 2025, featuring presentations on a variety of digital humanities topics, including textual, visual and sound corpora and related tools and resources. The workshop program is at [https://ilg.usc.gal/gl/actividades/II-xeira-clariah-gal](https://ilg.usc.gal/gl/actividades/II-xeira-clariah-gal).
 

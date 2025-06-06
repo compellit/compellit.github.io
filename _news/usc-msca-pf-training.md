@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presentation at MSCA-PF training session
+title: Presentation at MSCA-PF information session
 date: 2025-06-03 10:00:00+0200
 inline: false
 related_posts: false
