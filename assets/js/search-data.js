@@ -27,8 +27,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/ii-clariah-gal-workshop/";
-            },},{id: "news-presentation-at-msca-pf-training-session",
-          title: 'Presentation at MSCA-PF training session',
+            },},{id: "news-presentation-at-msca-pf-information-session",
+          title: 'Presentation at MSCA-PF information session',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/usc-msca-pf-training/";
