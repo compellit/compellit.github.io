@@ -1,0 +1,5 @@
+<div class="publications">
+  {% if include.query %}
+    {% bibliography --group_by none --query {{ include.query }} %}
+  {% endif %}
+</div>

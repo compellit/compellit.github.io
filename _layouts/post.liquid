@@ -81,6 +81,24 @@ layout: default
     </div>
   {% endif %}
 
+{% if page.pubs_for_page %}
+{% if page.page_id %}
+  {% assign dynamic_query = "@*[for_page=" | append: page.page_id | append: "]*" %}
+  {% include papers_for_page.liquid query=dynamic_query %}
+{% endif %}
+
+
+{% endif %}
+
+    <!-- Selected papers -->
+    {% if page.selected_papers %}
+      <h2>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+      </h2>
+      {% include selected_papers.liquid %}
+    {% endif %}
+
+
   {% if site.related_blog_posts and site.related_blog_posts.enabled %}
     {% if page.related_posts == null or page.related_posts %}
       {% include related_posts.liquid %}
