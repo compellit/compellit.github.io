@@ -8,6 +8,6 @@ nav_order: 1
 
 - [GAMA (Galician Metrical Analyzer)](https://prf2.org/en/gama/): Automatic metrical analysis of poetry in Galician.
 
-{% #include resources/resources.liquid %}
+<!-- {% include resources/resources.liquid %} -->
 
 
