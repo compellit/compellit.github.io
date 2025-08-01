@@ -46,6 +46,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/usc-msca-pf-training/";
+            },},{id: "news-pauline-moreau-39-s-internship-starts",
+          title: 'Pauline Moreau&amp;#39;s internship starts',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/internship-start-20250710/";
+            },},{id: "news-galician-metrical-analyzer-online",
+          title: 'Galician Metrical Analyzer online',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/galician-metrical-analyzer-online/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
