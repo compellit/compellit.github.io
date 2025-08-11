@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-The web interface to GAMA, the Galician Metrical Analyzer, is online at [https://prf2.org/gama/](https://prf2.org/gama/). GAMA is under developement at the COMPEL project and performs scansion (metrical analysis) for poetry in Galician. Pauline Moreau and Pablo Ruiz are developing its web interface.
+The web interface to GAMA, the Galician Metrical Analyzer, is online at **[https://prf2.org/gama/](https://prf2.org/gama/)**. GAMA is under developement at the COMPEL project and performs scansion (metrical analysis) for poetry in Galician. Pauline Moreau and Pablo Ruiz are developing its web interface.
