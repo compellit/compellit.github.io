@@ -48,6 +48,16 @@
             {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %}
           {% endfor %}
 
+          <!-- About -->
+          <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/' | relative_url }}">
+              {{- about_title }}
+              {% if page.permalink == '/' %}
+                <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+
           <!-- Other pages than About-->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}
@@ -110,15 +120,7 @@
             {% endif %}
           {% endfor %}
 
-          <!-- About -->
-          <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/' | relative_url }}">
-              {{- about_title }}
-              {% if page.permalink == '/' %}
-                <span class="sr-only">(current)</span>
-              {% endif %}
-            </a>
-          </li>
+          <li class="nav-item"><a class=nav-link href="https://github.com/compellit" target="_blank"><i class="fa-brands fa-github"></i></a></li>
 
           {% if site.search_enabled %}
             <!-- Search -->
