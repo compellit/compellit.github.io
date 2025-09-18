@@ -56,6 +56,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/galician-metrical-analyzer-online/";
+            },},{id: "news-hiring-junior-researcher-in-nlp",
+          title: 'Hiring Junior Researcher in NLP',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/hiring-nlp-junior-researcher/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
