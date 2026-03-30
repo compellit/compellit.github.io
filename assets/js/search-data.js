@@ -56,6 +56,21 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/galician-metrical-analyzer-online/";
+            },},{id: "news-anxo-alonso-joins-the-project",
+          title: 'Anxo Alonso joins the project',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/new-collaborator-20260108/";
+            },},{id: "news-automatic-scansion-paper-accepted-at-propor",
+          title: 'Automatic scansion paper accepted at PROPOR',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/paper-accepted-PROPOR/";
+            },},{id: "news-transformers-and-scansion-paper-at-llms4ssh-lrec",
+          title: 'Transformers and scansion paper at LLMs4SSH @LREC',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/paper-accepted-llms4ssh-at-lrec/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
