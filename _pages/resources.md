@@ -7,8 +7,8 @@ nav_order: 1
 ---
 
 - On Hugging Face: [compellit](https://huggingface.co/compellit)
-- [GAMA (Galician Metrical Analyzer)](https://prf2.org/en/gama/): Automatic metrical analysis of poetry in Galician.
 - On GitHub: [compellit](https://github.com/compellit)
+- [GAMA (Galician Metrical Analyzer)](https://prf2.org/en/gama/): Automatic metrical analysis of poetry in Galician.
 
 
 <!-- {% include resources/resources.liquid %} -->
