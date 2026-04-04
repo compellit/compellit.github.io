@@ -56,6 +56,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/galician-metrical-analyzer-online/";
+            },},{id: "news-popular-voices-computational-analysis-of-poetry-and-song",
+          title: 'Popular Voices: Computational Analysis of Poetry and Song',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/volume-popular-voices/";
             },},{id: "news-anxo-alonso-joins-the-project",
           title: 'Anxo Alonso joins the project',
           description: "",
