@@ -3,7 +3,7 @@ layout: page
 title: resources
 permalink: /resources/
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 - GitHub: [compellit](https://github.com/compellit)
