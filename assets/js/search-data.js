@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-resources",
+  },{id: "nav-people",
+          title: "people",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
+        },{id: "nav-resources",
           title: "resources",
           description: "",
           section: "Navigation",
@@ -56,6 +63,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/galician-metrical-analyzer-online/";
+            },},{id: "news-presentation-at-hdh-compartir-pantalla-series",
+          title: 'Presentation at HDH Compartir Pantalla series',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/tutorial-hdh-llms/";
             },},{id: "news-popular-voices-computational-analysis-of-poetry-and-song",
           title: 'Popular Voices: Computational Analysis of Poetry and Song',
           description: "",
