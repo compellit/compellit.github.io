@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-Our paper describing experiments with transformers for metrical scansion in Galician poetry is accepted at the [LLMs4SSH](https://sites.google.com/view/llms4ssh-lrec2026/) workshop at LREC 2026. The paper compares symbolic scansion with encoder-decoder models and LLMs. Proceedings to be out soon, models are on [Hugging Face](https://huggingface.co/collections/compellit/scansion-models) and code is at [https://github.com/compellit/gama-trf](https://github.com/compellit/gama-trf).
+Our paper describing experiments with transformers for metrical scansion in Galician poetry is accepted at the [LLMs4SSH](https://sites.google.com/view/llms4ssh-lrec2026/) workshop at LREC 2026. The paper compares symbolic scansion with encoder-decoder models and LLMs. A postprint is at [https://doi.org/10.5281/zenodo.19701641](https://doi.org/10.5281/zenodo.19701641), models are on [Hugging Face](https://huggingface.co/collections/compellit/scansion-models) and code is at [https://github.com/compellit/gama-trf](https://github.com/compellit/gama-trf).

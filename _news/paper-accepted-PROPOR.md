@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-Our paper describing the Galician Metrical Analyzer (symbolic version) is accepted at [PROPOR](https://propor2026.ufba.br/), the 17th International Conference on Computational Processing of Portuguese. Proceedings to be out soon and code is at [https://github.com/compellit/gama-sym](https://github.com/compellit/gama-sym).
+Our paper describing the Galician Metrical Analyzer (symbolic version) was accepted at [PROPOR](https://propor2026.ufba.br/), the 17th International Conference on Computational Processing of Portuguese. The paper is at [https://aclanthology.org/2026.propor-1.101/](https://aclanthology.org/2026.propor-1.101/) and the code is at [https://github.com/compellit/gama-sym](https://github.com/compellit/gama-sym).
