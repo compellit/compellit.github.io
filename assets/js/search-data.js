@@ -88,6 +88,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/paper-accepted-llms4ssh-at-lrec/";
+            },},{id: "news-talk-at-creativités-artificielles-conference",
+          title: 'Talk at Creativités Artificielles Conference',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/creativites-artificielles-participation/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
