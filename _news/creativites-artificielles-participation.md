@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talk at Creativités Artificielles Conference
+title: "Talk at Creativités Artificielles : Approches Critiques de l'IA"
 date: 2026-04-28 17:03:00+0100
 inline: false
 related_posts: false
