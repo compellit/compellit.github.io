@@ -88,8 +88,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/paper-accepted-llms4ssh-at-lrec/";
-            },},{id: "news-talk-at-creativités-artificielles-conference",
-          title: 'Talk at Creativités Artificielles Conference',
+            },},{id: "news-talk-at-creativités-artificielles-approches-critiques-de-l-39-ia",
+          title: 'Talk at Creativités Artificielles : Approches Critiques de l&amp;#39;IA',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/creativites-artificielles-participation/";
