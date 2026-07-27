@@ -93,6 +93,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/creativites-artificielles-participation/";
+            },},{id: "news-xabier-suarez-39-internship-starts",
+          title: 'Xabier Suarez&amp;#39; internship starts',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/internship-start-20260622/";
+            },},{id: "news-alejandro-barros-39-internship-starts",
+          title: 'Alejandro Barros&amp;#39; internship starts',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/internship-start-20260701/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
