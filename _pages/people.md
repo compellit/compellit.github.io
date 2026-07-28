@@ -17,7 +17,7 @@ The project is hosted at [CiTIUS](https://citius.gal/), the research center on i
 
 Pauline Moreau: Intern in 2025; external consultant also in 2025 
 
-Xabier Suárez: Intern in 2026, within the internship program at Universidade de Santiago de Compostela's [Consello Social](https://www.usc.gal/es/usc/institucional/goberno/cs)
+Xabier Suárez: Intern in 2026, within the [Consello Social](https://www.usc.gal/es/usc/institucional/goberno/cs) internship program at Universidade de Santiago de Compostela
 
 [Paulo Gamallo](https://citius.gal/team/pablo-gamallo-otero/): Supervisor
 
