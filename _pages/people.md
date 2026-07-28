@@ -2,7 +2,7 @@
 layout: page
 title: people
 permalink: /people/
-nav: true
+nav: true``
 nav_order: 1
 ---
 
@@ -13,7 +13,11 @@ The project is hosted at [CiTIUS](https://citius.gal/), the research center on i
 
 [Anxo Alonso Pérez](https://citius.gal/team/anxo-alonso-perez/): Collaborating researcher
 
-Pauline Moreau: Intern in 2025
+[Alejandro Barros Santomé](https://citius.gal/es/team/alejandro-barros-santome/): Intern in 2026, within [CiTIUS' Summer Fellowships](https://citius.gal/talent/job-offers/citius-summer-fellowships-2026/) program
+
+Pauline Moreau: Intern in 2025; external consultant also in 2025 
+
+Xabier Suárez: Intern in 2026, within the internship program at Universidade de Santiago de Compostela's [Consello Social](https://www.usc.gal/es/usc/institucional/goberno/cs)
 
 [Paulo Gamallo](https://citius.gal/team/pablo-gamallo-otero/): Supervisor
 
