@@ -6,7 +6,7 @@ nav: true``
 nav_order: 1
 ---
 
-The project is hosted at [CiTIUS](https://citius.gal/), the research center on intelligent technologies at [Universidade de Santiago de Compostela](https://www.usc.gal/en). 
+The project is hosted at [CiTIUS](https://citius.gal/), the research center on intelligent technologies at [Universidade de Santiago de Compostela](https://www.usc.gal/en) (USC)
 
 [Pablo Ruiz Fabo](https://citius.gal/team/pablo-ruiz-fabo/): PI
 
@@ -17,7 +17,7 @@ The project is hosted at [CiTIUS](https://citius.gal/), the research center on i
 
 Pauline Moreau: Intern in 2025; external consultant also in 2025 
 
-Xabier Suárez: Intern in 2026, within the [Consello Social](https://www.usc.gal/es/usc/institucional/goberno/cs) internship program at Universidade de Santiago de Compostela
+Xabier Suárez: Intern in 2026, within USC's [Consello Social](https://www.usc.gal/es/usc/institucional/goberno/cs) internship program
 
 [Paulo Gamallo](https://citius.gal/team/pablo-gamallo-otero/): Supervisor
 
