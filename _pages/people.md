@@ -13,7 +13,7 @@ The project is hosted at [CiTIUS](https://citius.gal/), the research center on i
 
 [Anxo Alonso Pérez](https://citius.gal/team/anxo-alonso-perez/): Collaborating researcher
 
-[Alejandro Barros Santomé](https://citius.gal/es/team/alejandro-barros-santome/): Intern in 2026, within [CiTIUS' Summer Fellowships](https://citius.gal/talent/job-offers/citius-summer-fellowships-2026/) program
+Alejandro Barros Santomé: Intern in 2026, within [CiTIUS' Summer Fellowships](https://citius.gal/talent/job-offers/citius-summer-fellowships-2026/) program
 
 Pauline Moreau: Intern in 2025; external consultant also in 2025 
 
