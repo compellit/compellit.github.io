@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Galician Metrical Analyzer online
+title: GALAPAGOS (Galician Automatic Poetry Analysis System) online
 date: 2026-08-03 11:49:00+0200
 inline: false
 related_posts: false
