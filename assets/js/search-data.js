@@ -103,8 +103,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/internship-start-20260701/";
-            },},{id: "news-galician-metrical-analyzer-online",
-          title: 'Galician Metrical Analyzer online',
+            },},{id: "news-galapagos-galician-automatic-poetry-analysis-system-online",
+          title: 'GALAPAGOS (Galician Automatic Poetry Analysis System) online',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/galician-automatic-poetry-analysis-system-online/";
