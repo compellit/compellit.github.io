@@ -9,7 +9,7 @@ nav_order: 2
 - GitHub: [compellit](https://github.com/compellit)
 - Hugging Face: [compellit](https://huggingface.co/compellit)
 - Zenodo: [compel](https://zenodo.org/communities/compel/)
-- [GAMA (Galician Metrical Analyzer)](https://prf2.org/en/gama/): Automatic metrical analysis of poetry in Galician.
+- [GALAPAGOS: Galician Automatic Poetry Analysis System](https://prf2.org/galapagos/): Automatic metrical analysis of poetry in Galician.
 
 
 <!-- {% include resources/resources.liquid %} -->
