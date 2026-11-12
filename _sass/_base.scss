@@ -49,6 +49,15 @@ table.table a {
   }
 }
 
+// Emphasis inside links takes the link color, overriding the text color
+// set on em/strong in the typography rule above
+a em,
+a strong,
+a i,
+a b {
+  color: inherit;
+}
+
 .table-dark {
   background-color: transparent;
   &.table-bordered {

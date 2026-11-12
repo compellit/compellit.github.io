@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presentation at the SIG-DLS workshop @DH2026
+title: Video talk at the SIG-DLS workshop @DH2026
 date: 2026-07-28 12:00:00+0200
 inline: false
 related_posts: false
