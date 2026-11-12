@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resources/";
           },
+        },{id: "nav-publications",
+          title: "publications",
+          description: "Papers, presentations, datasets and software from the COMPEL project, newest first.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
         },{id: "nav-news",
           title: "news",
           description: "",
