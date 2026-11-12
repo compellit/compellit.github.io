@@ -12,7 +12,7 @@ SIG-DLS is ADHO's Special Interest Group on Digital Literary Studies. We present
   <video
     src="{{ '/assets/video/news/presentation-sig-dls-dh2026.mp4' | relative_url }}"
     poster="{{ '/assets/video/news/presentation-sig-dls-dh2026-poster.jpg' | relative_url }}"
-    class="d-block mx-auto rounded z-depth-1"
+    class="d-block mx-auto mt-5 rounded z-depth-1"
     style="width: 100%; max-width: 800px; height: auto; aspect-ratio: 1920 / 1200;"
     controls
     preload="metadata"

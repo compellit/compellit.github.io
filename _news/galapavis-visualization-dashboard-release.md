@@ -11,9 +11,9 @@ We release [**GALAPAvis**](https://galapavis.app.citius.gal) ([https://galapavis
 The dashboard has **interactive charts** that give an aggregated view of how prosodic features are distributed across time or across groups of authors. From the charts, you can access the poems that contain the features selected. This helps **compare authors** or groups of authors, and **prosodic features**.
 
 {% include figure.liquid
-   path="/assets/img/news/galapavis-release/galapavis-dashboard.png"
-   caption="GALAPAvis: distribution of verse length (metrical syllables) over time in the Galician and Spanish corpora"
+   path="/assets/img/news/galapavis-release/galapavis-meter-distribution.png"
+   caption="GALAPAvis: distribution of meters (metrical syllables) in the Galician and Spanish corpora. Sidebar shows the app's functions."
    width="100%"
-   class="mx-auto d-block"
+   class="mx-auto d-block mt-5 rounded z-depth-1"
    zoomable=true
 %}
