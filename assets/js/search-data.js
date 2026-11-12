@@ -93,6 +93,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/creativites-artificielles-participation/";
+            },},{id: "news-poster-at-iii-clariah-gal-workshop",
+          title: 'Poster at III CLARIAH-GAL Workshop',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/iii-clariah-gal-workshop/";
             },},{id: "news-xabier-suarez-39-internship-starts",
           title: 'Xabier Suarez&amp;#39; internship starts',
           description: "",
