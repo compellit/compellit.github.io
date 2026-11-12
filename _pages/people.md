@@ -10,8 +10,9 @@ The project is hosted at [CiTIUS](https://citius.gal/), the research center on i
 
 [Pablo Ruiz Fabo](https://citius.gal/team/pablo-ruiz-fabo/): PI
 
-
 [Anxo Alonso Pérez](https://citius.gal/team/anxo-alonso-perez/): Collaborating researcher
+
+Pedro Barral Silva: Intern in the 2026/27 year, within the [Facultade de Filoloxia's](https://www.usc.gal/en/center/faculty-philology) internship program.
 
 Alejandro Barros Santomé: Intern in 2026, within [CiTIUS' Summer Fellowships](https://citius.gal/talent/job-offers/citius-summer-fellowships-2026/) program
 
