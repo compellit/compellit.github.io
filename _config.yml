@@ -196,7 +196,6 @@ exclude:
   - _pages/dropdown.md
   - _pages/profiles.md
   - _pages/projects.md
-  - _pages/publications.md
   - _pages/repositories.md
   - _pages/teaching.md
   - _posts
@@ -295,6 +294,9 @@ scholar:
   query: "@*"
   group_by: year
   group_order: descending
+  # Newest first within each list; sortdate is an ISO date set in papers.bib
+  sort_by: sortdate
+  order: descending
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
@@ -329,6 +331,13 @@ filtered_bibtex_keywords:
     supp,
     video,
     website,
+    for_page,
+    section,
+    sortdate,
+    significance,
+    preview_icon,
+    howpublished_prefix,
+    notex,
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)

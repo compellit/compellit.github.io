@@ -1,24 +1,35 @@
 ---
 ---
 
+% Fields used by the project's publications page (_pages/publications.md):
+%   section      - publications | datasets | software | models (which section lists the entry)
+%   sortdate     - ISO date (or date and time) used to sort entries, newest first
+%   preview_icon - zenodo | github | huggingface: logo shown when there is no preview image
+%   significance - optional free text on the entry's relevance (e.g. DORA-style
+%                  narrative); shown in gray above the reference when not empty
 
 @misc{ruizCompelIntro2025,
   title={Proxecto {COMPEL}: Análise computacional das literaturas periféricas},
   author={Ruiz Fabo, Pablo},
   year={2025},
+  month={may},
   howpublished={II Xeira CLARIAH-GAL Workshop},
   howpublished_prefix={Presented at},
   notex={Poster presentation},
   pdf={clariah_gal_poster_ruiz.pdf},
   url={https://ilg.usc.gal/sites/default/files/ruiz_fabo.pdf},
   for_page={ii-clariah-gal},
-  preview={clariah-gal-poster-thumb.png}
+  preview={clariah-gal-poster-thumb.png},
+  section={publications},
+  sortdate={2025-05-09},
+  significance={}
 }
 
 @misc{alonsoGalapagos2026,
   title={O {GalAPAgoS} ({Galician Automatic Poetry Analysis System}) comeza a camiñar},
   author={Alonso Pérez, Anxo and Ruiz Fabo, Pablo and Haider, Thomas and Rodríguez Fernández, Pablo and Gamallo, Pablo},
   year={2026},
+  month={may},
   howpublished={III Xeira CLARIAH-GAL Workshop},
   howpublished_prefix={Presented at},
   notex={Poster presentation},
@@ -26,7 +37,10 @@
   doi={10.5281/zenodo.20554753},
   url={https://doi.org/10.5281/zenodo.20554753},
   for_page={iii-clariah-gal},
-  preview={iii-clariah-gal-poster-thumb.png}
+  preview={iii-clariah-gal-poster-thumb.png},
+  section={publications},
+  sortdate={2026-05-29},
+  significance={}
 }
 
 @inproceedings{ruizScansionPropor2026,
@@ -42,7 +56,10 @@
   pdf={https://aclanthology.org/2026.propor-1.101.pdf},
   code={https://github.com/compellit/gama-sym},
   for_page={propor-2026},
-  preview={propor-2026-scansion-thumb.png}
+  preview={propor-2026-scansion-thumb.png},
+  section={publications},
+  sortdate={2026-04-13},
+  significance={}
 }
 
 @inproceedings{ruizScansionLlms4ssh2026,
@@ -58,7 +75,90 @@
   pdf={https://aclanthology.org/2026.llms4ssh-1.12.pdf},
   code={https://github.com/compellit/gama-trf},
   for_page={llms4ssh-2026},
-  preview={llms4ssh-2026-scansion-thumb.png}
+  preview={llms4ssh-2026-scansion-thumb.png},
+  section={publications},
+  sortdate={2026-05-11},
+  significance={}
+}
+
+@dataset{ruizCorpusPublic2026,
+  title={{COMPEL} Public Corpus: {Galician} 19th-Century Poetry},
+  author={Ruiz Fabo, Pablo and Alonso Pérez, Anxo and Moreau, Pauline},
+  year={2026},
+  month={sep},
+  version={v1.0.0},
+  publisher={Zenodo},
+  doi={10.5281/zenodo.22251988},
+  url={https://doi.org/10.5281/zenodo.22251988},
+  website={https://github.com/compellit/gl-corpus-public/tree/v1.0.0},
+  section={datasets},
+  preview_icon={zenodo},
+  sortdate={2026-09-02},
+  significance={}
+}
+
+@software{ruizGamaTrf2026,
+  title={Galician Metrical Analyzer · Transformers-Based (gama-trf)},
+  author={Ruiz Fabo, Pablo and Alonso Pérez, Anxo and Rodríguez Fernández, Pablo},
+  year={2026},
+  month={apr},
+  version={v1},
+  publisher={Zenodo},
+  doi={10.5281/zenodo.19422750},
+  url={https://doi.org/10.5281/zenodo.19422750},
+  code={https://github.com/compellit/gama-trf},
+  section={software},
+  preview_icon={github},
+  sortdate={2026-04-04T20:25},
+  significance={}
+}
+
+@software{ruizGamaSym2026,
+  title={Galician Metrical Analyzer · Symbolic (gama-sym)},
+  author={Ruiz Fabo, Pablo and Alonso Pérez, Anxo},
+  year={2026},
+  month={apr},
+  version={v1},
+  publisher={Zenodo},
+  doi={10.5281/zenodo.19422562},
+  url={https://doi.org/10.5281/zenodo.19422562},
+  code={https://github.com/compellit/gama-sym},
+  section={software},
+  preview_icon={github},
+  sortdate={2026-04-04T20:01},
+  significance={}
+}
+
+@software{moreauGamaWeb2026,
+  title={Galician Metrical Analyzer · Web version (gama-web)},
+  author={Moreau, Pauline and Alonso Pérez, Anxo and Ruiz Fabo, Pablo},
+  year={2026},
+  month={apr},
+  version={v2},
+  publisher={Zenodo},
+  doi={10.5281/zenodo.19409561},
+  url={https://doi.org/10.5281/zenodo.19409561},
+  code={https://github.com/compellit/gama-web},
+  section={software},
+  preview_icon={github},
+  sortdate={2026-04-03T18:24},
+  significance={}
+}
+
+@misc{ruizScansionModels2026,
+  title={Scansion Models for {Galician} Poetry},
+  author={Ruiz Fabo, Pablo and Alonso Pérez, Anxo and Rodríguez Fernández, Pablo},
+  year={2026},
+  month={mar},
+  howpublished={Hugging Face},
+  howpublished_prefix={Model collection on},
+  url={https://huggingface.co/collections/compellit/scansion-models},
+  website={https://huggingface.co/collections/compellit/scansion-models},
+  code={https://github.com/compellit/gama-trf},
+  section={models},
+  preview_icon={huggingface},
+  sortdate={2026-03-30},
+  significance={}
 }
 
 @string{aps = {American Physical Society,}}

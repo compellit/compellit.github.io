@@ -769,6 +769,41 @@ footer.sticky-bottom {
         font-weight: bolder;
       }
 
+      // Repository logo in place of a thumbnail (see _includes/bib_icon.liquid).
+      // Swap the color for var(--global-text-color-light) to use mid gray instead.
+      .preview-icon {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 4.5rem;
+        height: 100%;
+        font-size: 2.75rem;
+        line-height: 1;
+        color: var(--global-theme-color);
+
+        svg {
+          width: 1em;
+          height: 1em;
+          fill: currentColor;
+
+          // Stroke-based icons (GitHub)
+          &.stroked {
+            fill: none;
+            stroke: currentColor;
+            stroke-width: 1.25;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+          }
+        }
+      }
+
+      // Optional relevance statement shown above the reference (see bib.liquid)
+      .significance {
+        color: var(--global-text-color-light);
+        font-size: 0.9rem;
+        margin-bottom: 0.25rem;
+      }
+
       .author {
         a {
           border-bottom: 1px dashed var(--global-theme-color);
