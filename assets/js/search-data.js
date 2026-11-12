@@ -103,11 +103,36 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/internship-start-20260701/";
+            },},{id: "news-presentation-at-the-sig-dls-workshop-dh2026",
+          title: 'Presentation at the SIG-DLS workshop @DH2026',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/presentation-sig-dls-dh2026/";
             },},{id: "news-galapagos-galician-automatic-poetry-analysis-system-online",
           title: 'GALAPAGOS (Galician Automatic Poetry Analysis System) online',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/galician-automatic-poetry-analysis-system-online/";
+            },},{id: "news-participation-in-european-researchers-39-night",
+          title: 'Participation in European Researchers&amp;#39; Night',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/european-researchers-night/";
+            },},{id: "news-presentation-at-ciencia-singular-open-day",
+          title: 'Presentation at Ciencia Singular open day',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/ciencia-singular-presentation/";
+            },},{id: "news-pedro-barral-39-s-internship-starts",
+          title: 'Pedro Barral&amp;#39;s internship starts',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/internship-start-20261102/";
+            },},{id: "news-galapavis-visualization-dashboard-online",
+          title: 'GALAPAvis visualization dashboard online',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/galapavis-visualization-dashboard-release/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
