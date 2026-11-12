@@ -103,8 +103,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/internship-start-20260701/";
-            },},{id: "news-presentation-at-the-sig-dls-workshop-dh2026",
-          title: 'Presentation at the SIG-DLS workshop @DH2026',
+            },},{id: "news-video-talk-at-the-sig-dls-workshop-dh2026",
+          title: 'Video talk at the SIG-DLS workshop @DH2026',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/presentation-sig-dls-dh2026/";
