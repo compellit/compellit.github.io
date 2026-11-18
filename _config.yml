@@ -186,6 +186,8 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _posts/2023-07-04-jupyter-notebook.md # template sample; only user of jekyll-jupyter-notebook (slow nbconvert)
+  - assets/jupyter/ # template sample notebook; converting it with nbconvert slows every build
   - purgecss.config.js
   - README.md
   - readme_preview/
