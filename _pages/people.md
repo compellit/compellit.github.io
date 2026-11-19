@@ -16,13 +16,13 @@ Pedro Barral Silva: Intern in the 2026/27 year, within the [Facultade de Filolox
 
 Alejandro Barros Santomé: Intern in 2026, within [CiTIUS' Summer Fellowships](https://citius.gal/talent/job-offers/citius-summer-fellowships-2026/) program
 
-Pauline Moreau: Intern in 2025; external consultant also in 2025 
+Pauline Moreau: Intern in 2025; external consultant also in 2025
 
 Xabier Suárez: Intern in 2026, within USC's [Consello Social](https://www.usc.gal/es/usc/institucional/goberno/cs) internship program
 
 [Paulo Gamallo](https://citius.gal/team/pablo-gamallo-otero/): Supervisor
 
-Besides, the CiTIUS center has several teams like Knowledge Management and Transfer, IT Infrastructure, and Planning, which we mention here because they contribute to all projects at the center. 
+Besides, the CiTIUS center has several teams like Knowledge Management and Transfer, IT Infrastructure, and Planning, which we mention here because they contribute to all projects at the center.
 
 ## Related projects
 

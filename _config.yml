@@ -3,13 +3,13 @@
 # -----------------------------------------------------------------------------
 
 title: Computational Analysis of Peripheral Literatures # the website title (if blank, full name will be used instead)
-first_name: 
-middle_name: 
-last_name: 
+first_name:
+middle_name:
+last_name:
 contact_note: >
-  COMPEL Project · Computational Analysis of Peripheral Literatures 
+  COMPEL Project · Computational Analysis of Peripheral Literatures
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  
+
 footer_text: >
   Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> · <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme
 keywords: Galician, Computational Literary Studies, peripheral literatures # add your own keywords or leave empty
@@ -18,7 +18,7 @@ icon: 🟩 # the emoji used as the favicon (alternatively, provide image name in
 project_title: COMPEL
 
 url: https://compellit.github.io # the base hostname & protocol for your site
-baseurl: 
+baseurl:
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -273,8 +273,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: 
-  first_name: 
+  last_name:
+  first_name:
 
   style: apa
   locale: en
@@ -661,4 +661,3 @@ jsonresume:
   - languages
   - interests
   - references
-

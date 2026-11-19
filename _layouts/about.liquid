@@ -15,7 +15,6 @@ layout: default
   </header>
 
   <article>
-
     {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
@@ -76,6 +75,6 @@ layout: default
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
-    {% endif %}          
+    {% endif %}
   </article>
 </div>
