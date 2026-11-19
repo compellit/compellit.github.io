@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-On October 24, [Pablo Ruiz](https://citius.gal/team/pablo-ruiz-fabo/) and [Anxo Alonso](https://citius.gal/team/anxo-alonso-perez/) gave a presentation on computational humanities at *Ciencia é singular*, the open day at the USC network of singular research centres, which celebrated its 10th edition. The session, held at CiTIUS, was titled "Humanidades computacionais: Tecnoloxías da linguaxe e evolución do verso" (Computational humanities: Language technologies and the evolution of verse) and addressed the contribution of large-scale computation to the study of verse, as well as the challenges that automatic versification analysis poses for language technologies.
+On October 24, [Pablo Ruiz](https://citius.gal/team/pablo-ruiz-fabo/) and [Anxo Alonso](https://citius.gal/team/anxo-alonso-perez/) gave a presentation on computational humanities at *Ciencia é singular*, the open day at the USC network of singular research centres, which celebrated its 10th edition. The session, held at CiTIUS, was titled "Humanidades computacionais: Tecnoloxías da linguaxe e evolución do verso" (Computational humanities: Language technologies and the evolution of verse) and addressed the contribution of large-scale computation to the study of verse, as well as the challenges that automatic versification analysis poses for language technologies. 
 
 The CiTIUS open day program is at [https://cienciasingular.usc.es/citius/](https://cienciasingular.usc.es/citius/).
 
