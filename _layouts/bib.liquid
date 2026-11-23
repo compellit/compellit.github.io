@@ -231,7 +231,12 @@
       {% endif %}
       {% if entry.pdf %}
         {% if entry.pdf contains '://' %}
-          <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          {% comment %} Zenodo /files/ URLs always force a download; /preview/ shows the PDF in the browser {% endcomment %}
+          {% assign pdf_href = entry.pdf %}
+          {% if pdf_href contains 'zenodo.org/records/' %}
+            {% assign pdf_href = pdf_href | replace: '/files/', '/preview/' | split: '?' | first %}
+          {% endif %}
+          <a href="{{ pdf_href }}" target="_blank" rel="noopener" class="btn btn-sm z-depth-0" role="button">PDF</a>
         {% else %}
           <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
         {% endif %}
